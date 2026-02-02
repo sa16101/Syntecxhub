@@ -1,0 +1,9 @@
+--- DATA CLEANING REPORT ---
+Initial Shape: (891, 12)
+Step 2: Column names standardized to snake_case.
+Step 3: No duplicate rows found.
+Step 3: No duplicate rows found.
+Step 4: Filled 177 nulls in 'age' using Mean.
+Step 4: Filled 687 nulls in 'cabin' using Mode.
+Step 4: Filled 2 nulls in 'embarked' using Mode.
+--- End of Report ---
